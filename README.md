@@ -1,4 +1,5 @@
 Welcome to my Github profile! 🚀
+
 📌 Hi there! I'm a senior full stack developer 💻 with a passion for building innovative and user-friendly web applications. I have experience in Angular, ReactJS, NodeJS, Express, MongoDB, and TypeScript.
 
 📌 I've had the opportunity to work with some amazing companies such as Hellol 💼, Darrebni 🏥, and NorthExcel 🔍, where I've honed my skills and gained valuable experience.
@@ -8,12 +9,11 @@ Welcome to my Github profile! 🚀
 📌 I'm always ready for new challenges and to learn new technologies, let's work together and build something amazing! ⚡️
 
 
-nawar
 🗺️ Location
 From Syria 🇸🇾 Live in 📍 Dubai 🇦🇪
 
 ⛷️ Skills and tecnologies
-Angular / VueJs 🛡️
+Angular 🛡️
 ReactJS / NextJs 🦾
 NodeJS / Express  🎬
 MongoDB / Oracle / MySQL  📦
